@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://pandaprobe.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-light.svg#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-dark.svg#gh-light-mode-only">
-      <img alt="LangChain Logo" src="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-dark.svg" width="50%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-light.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-dark.png">
+      <img alt="PandaProbe Logo" src="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/logo-dark.png" width="50%">
     </picture>
   </a>
 </div>
