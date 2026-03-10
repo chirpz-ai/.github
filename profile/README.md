@@ -10,10 +10,7 @@
 
 <div align="center">
   <h1>The open source agent engineering platform.</h1>
-</div>
-
-<div align="center">
-  <h1>By Chirpz AI</h1>
+  <h3>By Chirpz AI</h3>
 </div>
 
 <div>
