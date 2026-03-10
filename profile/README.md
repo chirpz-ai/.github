@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <h1 style="border-bottom: none">The open source agent engineering platform.</h1>
-  <h3>By Chirpz AI</h3>
+  <p style="font-size: 1.5em; font-weight: 600; margin: 0 0 0.25em 0;">The open source agent engineering platform.</p>
+  <p style="font-size: 1em; font-weight: 400; margin: 0;">By Chirpz AI</p>
 </div>
 
 <div>
