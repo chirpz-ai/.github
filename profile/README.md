@@ -9,9 +9,12 @@
 </div>
 
 <div align="center">
-  <h3>The open-source agent engineering platform.</h3>
+  <h1>The open source agent engineering platform.</h1>
 </div>
 
+<div align="center">
+  <h1>By Chirpz AI</h1>
+</div>
 
 <div>
   <p align="center">
@@ -28,8 +31,8 @@
 
 
 
-Core OSS platform:
-- <a href="https://github.com/chirpz-ai/pandaprobe" target="_blank" rel="noopener noreferrer">PandaProbe</a> – core agent engineering platform
+OSS platform:
+- <a href="https://github.com/chirpz-ai/pandaprobe" target="_blank" rel="noopener noreferrer">PandaProbe</a> – core open source agent engineering platform
 
 Cloud Platform:
 - <a href="https://pandaprobe.com/" target="_blank" rel="noopener noreferrer">PandaProbe Cloud</a> – platform for evaluating and monitoring production-grade AI agents
