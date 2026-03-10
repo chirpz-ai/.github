@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/heading.svg" alt="The open source agent engineering platform. By Chirpz AI" width="800"/>
+  <a href="https://pandaprobe.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/chirpz-ai/.github/main/profile/static/heading.svg" alt="The open source agent engineering platform. By Chirpz AI" width="700"/>
+</a>
 </div>
 
 <div>
